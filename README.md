@@ -4,6 +4,8 @@
     <span> Trilha Python Dio</span>
 </h1>
 
+Repositório criado para disponibilização do código de resolução do desafio proposto.
+
 ## Objetivo
 Criando um Sistema Bancário com Python.
 
